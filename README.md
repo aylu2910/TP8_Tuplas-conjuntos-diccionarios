@@ -25,15 +25,8 @@ Escribir una función que reciba un número entero N y devuelva un diccionario c
 ## EJ 10
 Desarrollar una función eliminarclaves() que reciba como parámetros un dicciona- rio y una lista de claves. La función debe eliminar del diccionario todas las claves contenidas en la lista, devolviendo el diccionario modificado y un valor de verdad que indique si la operación fue exitosa. Desarrollar también un programa para verificar su comportamiento
 ## EJ 11
-</div>
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
-<div class="text-orange-light mb-2">
-  Crear una función contarvocales(), que reciba una palabra y cuente cuántas letras "a" contiene, cuántas "e", cuántas "i", etc. Devolver un diccionario con los resulta- dos. Desarrollar un programa para leer una frase e invocar a la función por cada palabra que contenga la misma. Imprimir cada palabra y la cantidad de vocales hallada
-</div>
+Crear una función contarvocales(), que reciba una palabra y cuente cuántas letras "a" contiene, cuántas "e", cuántas "i", etc. Devolver un diccionario con los resultados. Desarrollar un programa para leer una frase e invocar a la función por cada palabra que contenga la misma. Imprimir cada palabra y la cantidad de vocales hallada
 ## EJ 12
-  
-  </div>
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
-<div class="text-orange-light mb-2">
-  .text-orange-light on white
-</div>
+Una librería almacena su lista de precios en un diccionario. Diseñar un programa para crearlo, incrementar los precios de los cuadernos en un 15%, imprimir un listado con todos los elementos de la lista de precios e indicar cuál es el ítem más costoso que venden en el comercio.
+## EJ 13
+Escribir una función buscarclave() que reciba como parámetros un diccionario y un valor, y devuelva una lista de claves que apunten ("mapeen") a ese valor en el diccionario. Comprobar el comportamiento de la función mediante un programa apropiado
