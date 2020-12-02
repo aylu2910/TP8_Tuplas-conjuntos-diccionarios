@@ -31,3 +31,9 @@ Desarrollar una función eliminarclaves() que reciba como parámetros un diccion
   Crear una función contarvocales(), que reciba una palabra y cuente cuántas letras "a" contiene, cuántas "e", cuántas "i", etc. Devolver un diccionario con los resulta- dos. Desarrollar un programa para leer una frase e invocar a la función por cada palabra que contenga la misma. Imprimir cada palabra y la cantidad de vocales hallada
 </div>
 ## EJ 12
+  
+  </div>
+<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
+<div class="text-orange-light mb-2">
+  .text-orange-light on white
+</div>
